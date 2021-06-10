@@ -5,4 +5,5 @@
 ## Content
 
 * [Bài 1](content/bai-1.md)
+* [Setup Machine learning projcets](content/setup-project.md)
 
