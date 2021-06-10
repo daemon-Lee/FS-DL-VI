@@ -6,4 +6,10 @@
 * Metric: How to pick a single number to optimize
 * Baseline: How to know if your model is preforming well
 
+## Note
 
+* ML is still research, therefore it is very challenging to aim for 100% success rate.
+* Many ML projects are technically infeasible or poorly scoped.
+* Many ML projects never make the leap into production.
+* Many ML projects have unclear success criteria.
+* Many ML projects are poorly managed.
