@@ -4,5 +4,4 @@ description: Đây là nơi tổng hợp về Full stack Deep Learning từ nhi�
 
 # Home page
 
-...
-
+Hiện mình đang muốn việt hóa [Full stack DL](https://fall2019.fullstackdeeplearning.com/)
